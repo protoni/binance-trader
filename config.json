@@ -1,0 +1,23 @@
+[
+    {
+        "name": "strategy1",
+        "sellThreshold": 0.04,
+        "buyThreshold": 0.04,
+        "trailingBuy": 0.04,
+        "trailingSell": 0.04
+    },
+    {
+        "name": "strategy2",
+        "sellThreshold": 0.04,
+        "buyThreshold": 0.04,
+        "trailingBuy": 0,
+        "trailingSell": 0
+    },
+    {
+        "name": "strategy3",
+        "sellThreshold": 0.1,
+        "buyThreshold": 0.1,
+        "trailingBuy": 0,
+        "trailingSell": 0
+    }
+]
